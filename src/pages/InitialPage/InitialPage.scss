@@ -1,0 +1,60 @@
+$BNAblue: #005e85;
+$BNAlightBlue: #23abe0;
+
+.Initial{
+    width: 100%;
+    height: 100%;
+    background: rgb(0,123,175);
+    background: radial-gradient(circle, rgba(0,123,175,1) 0%, rgba(0,94,133,1) 100%);
+    .inner{
+        width: 90%;
+        height: 94%;
+        margin: 3vh 5%;
+        //border: 5px dashed white;
+        background-image: url("data:image/svg+xml,%3csvg width='100%25' height='100%25' xmlns='http://www.w3.org/2000/svg'%3e%3crect width='100%25' height='100%25' fill='none' stroke='white' stroke-width='10' stroke-dasharray='30%2c 50' stroke-dashoffset='10' stroke-linecap='square'/%3e%3c/svg%3e");
+        display: flex;
+        justify-content: center;
+        .container{
+            text-align: center;
+            .logo{
+                width: 60%;
+                margin: 60px 0 100px;
+            }
+            .welcome{
+                font-size: 120px;
+                font-weight: 600;
+                width: 760px;
+                padding: 15px 0 25px;
+                border-radius: 40px;
+                background-color: white;
+                color: $BNAblue;
+                margin: auto;
+            }
+            h3{
+                font-size: 70px;
+                margin-bottom: -45px;
+                font-weight: 800;
+                color: white;
+                padding: 0px 70px;
+            }
+            .cup{
+                width: 75%;
+                margin-top: 50px;
+            }
+            .Button{
+                position: absolute;
+                bottom: 200px;
+                right: 0;
+                left: 0;
+                margin: 0 auto;
+                background-color: white;
+                box-shadow: 0 20px rgb(183, 183, 183);
+                color: $BNAblue;
+            }
+            .Button:active{
+                box-shadow: inset 0 -10px 0 white;
+                transform: translateY(20px);
+            }
+        }
+    }
+}

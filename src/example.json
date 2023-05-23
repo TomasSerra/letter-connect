@@ -1,0 +1,91 @@
+[
+    [
+        {
+            "question": "Clave que se utiliza para ingresar en el cajero automático",
+            "answer": "PIN"
+        },
+        {
+            "question": "Clave adicional que permite validar operaciones que realizas por Home Banking",
+            "answer": "TOKEN"
+        },
+        {
+            "question": "Número de ingresos de clave fallidos consecutivos que permite BNA+",
+            "answer": "CINCO"
+        },
+        {
+            "question": "Aplicación móvil que transforma tu celular en una billetera electrónica",
+            "answer": "BNA+"
+        },
+        {
+            "question": "Estafa en la que se envía un mail haciéndose pasar por un banco para robar datos a clientes",
+            "answer": "PHISHING"
+        }
+            
+    ],
+    [
+        {
+            "question": "Para realizar tu presupuesto personal necesitás conocer tus ingresos y tus ...",
+            "answer": "GASTOS"
+        },
+        {
+            "question": "Cuando invertís tus ahorros en un plazo fijo, el Banco te paga una tasa de ...",
+            "answer": "INTERES"
+        },
+        {
+            "question": "La tarjeta de crédito permite comprar y poder pagar en partes llamadas",
+            "answer": "CUOTAS"
+        },
+        {
+            "question": "¿Cuándo puede alguien del banco llamarte para pedirte tus datos personales?",
+            "answer": "NUNCA"
+        },
+        {
+            "question": "En tu presupuesto, es recomendable separar una parte de tus ingresos para ...",
+            "answer": "AHORRAR"
+        }
+    ],
+    [
+        {
+            "question": "Época en la que inicia la colección de monedas del Museo Numismático del Banco Nación",
+            "answer": "COLONIAL"
+        },
+        {
+            "question": "Apellido del arquitecto del cual toma el nombre la Galería de arte del Banco Nación",
+            "answer": "BUSTILLO"
+        },
+        {
+            "question": "Apellido del prócer del cual toma el nombre la Biblioteca del Banco Nación",
+            "answer": "BELGRANO"
+        },
+        {
+            "question": "El Museo que se encuentra dentro del Banco Nación es de acceso libre y ...",
+            "answer": "GRATUITO"
+        },
+        {
+            "question": "Año que fue inaugurado el Museo Histórico y Numismático del Banco Nación",
+            "answer": "1966"
+        }
+    ],
+    [
+        {
+            "question": "Año de inauguración de la fundación del Banco de la Nación Argentina",
+            "answer": "1891"
+        },
+        {
+            "question": "El Banco de la Nación Argentina fue fundado por iniciativa del Presidente ___ Pellegrini",
+            "answer": "CARLOS"
+        },
+        {
+            "question": "Sector económico al que el Banco Nación ayudó a convertirse en una potencia",
+            "answer": "RURAL"
+        },
+        {
+            "question": "Es prioridad del Banco Nación la atención a las Pequeñas y Medianas",
+            "answer": "EMPRESAS"
+        },
+        {
+            "question": "A partir de su fundación, el BNA abarcó en su desarrollo a toda la geografía",
+            "answer": "NACIONAL"
+        }
+    ]
+]
